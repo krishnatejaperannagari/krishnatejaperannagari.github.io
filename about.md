@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+**Sapienism** is a __school of thought.__ According to **Wikipedia,** a school of thought is defined as:  
 
-### More Information
+>> "__a collection or group of people who share common characteristics of opinion or outlook of a philosophy, discipline, belief, social movement, economics, cultural movement, or art movement.__"
 
-A place to include any other types of information that you'd like to include about yourself.
+Sapienism has three fundamental principles:  
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+* Act Logically
+* Adapt Rapidly
+* Evolve Infinitely
